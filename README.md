@@ -8,6 +8,9 @@ This repo is small project from [Jonas](https://github.com/jonasschmedtmann) Com
 
 ## Screenshot
 
+![Starting Screen](./img/s1.png)
+![Winning Screen](./img/s2.png)
+
 ## Setup
 
 Clone this repo and run `index.html` in your browser.
